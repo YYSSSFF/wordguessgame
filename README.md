@@ -36,8 +36,6 @@ To run the game locally, you need to have Python installed on your machine. You 
 
 ### Example
 ```
-plaintext
-
 Welcome to the Word Guessing Game!
 My name is: John
 Good luck John.
