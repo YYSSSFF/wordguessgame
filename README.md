@@ -41,21 +41,25 @@ My name is: John
 Good luck John.
 
 TIME TO GUESS THE CHARACTERS.
-_ _ _ _ _ _ _ _
+_ _ _ _ _ 
 
 Guess a character: e
-_ _ _ _ e _ _ _
+_ _ _ _ e
 
 Guess a character: o
-_ o _ _ e _ _ _
+_ _ o _ e
 
-Guess a character: t
-_ o _ _ e t _ _
+Guess a character: n
+_ _ o n e
 
-...
+Guess a character: c
+c _ o n e
+
+Guess a character: l
+c l o n e
 
 You've Won!
-The correct word is indeed: (repository)
+The correct word is indeed: (clone)
 ```
 ### Contributing
 If you would like to contribute to the project, please follow these steps:
