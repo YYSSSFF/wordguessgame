@@ -66,7 +66,7 @@ _ o _ _ e t _ _
 
 You've Won!
 The correct word is indeed: (repository)
-
+```
 Contributing
 
 If you would like to contribute to the project, please follow these steps:
