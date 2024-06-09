@@ -23,19 +23,29 @@ Clone the repository:
 ```sh
 git clone https://github.com/YYSSSFF/wordguessgame.git
 
-## Navigate to the project directory:
+Navigate to the project directory:
+
+sh
+
 cd wordguessgame
 
-## Run the game:
+Run the game:
+
+sh
+
 python wordguessgame.py
 
-## Usage
-1. Upon starting the game, you will be prompted to enter your name.
-2. The game will then choose a random word from the predefined list.
-3. Enter your guesses when prompted. The game will inform you if the letter is in the word or not.
-4. Continue guessing until you find the correct word or run out of attempts. The game will display your progress and the total number of attempts left.
+Usage
 
-## Example
+    Upon starting the game, you will be prompted to enter your name.
+    The game will then choose a random word from the predefined list.
+    Enter your guesses when prompted. The game will inform you if the letter is in the word or not.
+    Continue guessing until you find the correct word or run out of attempts. The game will display your progress and the total number of attempts left.
+
+Example
+
+plaintext
+
 Welcome to the Word Guessing Game!
 My name is: John
 Good luck John.
@@ -57,27 +67,24 @@ _ o _ _ e t _ _
 You've Won!
 The correct word is indeed: (repository)
 
-When i paste this after the code block: 
-## Contributing
+Contributing
+
 If you would like to contribute to the project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Make your changes and commit them (git commit -m 'Add some feature').
-4. Push to the branch (git push origin feature-branch).
-5. Open a pull request.
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Make your changes and commit them (git commit -m 'Add some feature').
+    Push to the branch (git push origin feature-branch).
+    Open a pull request.
 
-## Contact
+Contact
+
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: YYSSSFF
+    GitHub: YYSSSFF
 
 Acknowledgments
 
 Thank you to all the tutorials and resources that helped make this project possible.
 
-- W3Schools: Number guessing game in Python 3 and C - this piece is still included in the code block which i dont want
-
-
-Kopieer en plak deze tekst in je README.md-bestand. Dit zorgt ervoor dat de rest van de tekst buiten het codeblok wordt geplaatst.
-
+    W3Schools: Number guessing game in Python 3 and C
