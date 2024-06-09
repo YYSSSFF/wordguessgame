@@ -56,24 +56,3 @@ _ o _ _ e t _ _
 
 You've Won!
 The correct word is indeed: (repository)
-
-
-## Contributing
-If you would like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Make your changes and commit them (git commit -m 'Add some feature').
-4. Push to the branch (git push origin feature-branch).
-5. Open a pull request.
-
-## Contact
-If you have any questions or suggestions, feel free to reach out:
-
-- GitHub: YYSSSFF
-
-Acknowledgments
-
-Thank you to all the tutorials and resources that helped make this project possible.
-
-- W3Schools: Number guessing game in Python 3 and C
